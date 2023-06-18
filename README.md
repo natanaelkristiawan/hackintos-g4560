@@ -1,4 +1,4 @@
-# hackintos-g4560
+# hackintosh-g4560
 
 Opencore 9.3
 OS Monterey 12.6.6
